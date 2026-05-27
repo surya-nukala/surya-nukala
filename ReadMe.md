@@ -16,6 +16,7 @@ Hi there 👋, I'm Nukala Jaya Surya<br><br>🎓 Electronics and Communication E
 ![](https://github-contributor-stats.vercel.app/api?username=surya-nukala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=surya-nukala&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Profile views](https://komarev.com/ghpvc/?username=surya-nukala&color=blue)](https://github.com/surya-nukala)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
